@@ -9,3 +9,4 @@ To develop an object tracking system capable of:
 •	Calculating metrics such as total time spent by objects in the video.
 •	Visualizing the processed results in the form of bounding boxes, centroids, trails, and timestamps.
 •	Generating an HTML report with detailed metrics and embedding the processed video.
+![Uploading image.png…]()
